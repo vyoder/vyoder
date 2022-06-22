@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vyoder)
-<h1 align="center">Hi Everyone !! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Nikhil</h1>
 <h3 align="center">A passionate Software Developer and an Open-Source Enthusiast 👦</h3>
 
 <br>
@@ -22,14 +21,6 @@
 <img align="left" alt="Nikhil Shrivastava | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
 </a>
 
-<a href="https://www.hackerearth.com/@nikhil_175">
-<img align="left" alt="Nikhil Shrivastava | HackerEarth" height="25" width="25" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/HackerEarth_logo.png" />
-</a>
-
-<a href="https://www.hackerrank.com/nikhil_175">
-<img align="left" alt="nikhil_175 | HackerRank" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/HackerRank.svg" />
-</a>
-
 <br>
 
 ### Languages and Tools
@@ -40,15 +31,14 @@
 
 
 <br>
-<br>
-<br>
+
 
 <p align="center">
-<img height="160"  src="https://github-readme-streak-stats.herokuapp.com/?user=NikhilShrivastava&theme=tokyonight" alt="NikhilShrivastava"/> </p>
+<img height="160"  src="https://github-readme-streak-stats.herokuapp.com/?user=vyoder&theme=tokyonight" alt="vyoder"/> </p>
 
 <p align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=NikhilShrivastava&show_icons=true&theme=tokyonight" alt="My github stats" height="160"/></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=vyoder&show_icons=true&theme=tokyonight" alt="My github stats" height="160"/></p>
 
 <p align="center">
-<img align="right" height= "160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilShrivastava&layout=compact&theme=tokyonight" alt="languages"/> 
+<img align="right" height= "160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyoder&layout=compact&theme=tokyonight" alt="languages"/> 
 </p>
